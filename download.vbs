@@ -13,7 +13,9 @@ CheckFolderExists("download")
 Download vmArchive, "http://files.pharo.org/vm/pharo-spur32/win/", "./download"
 Download imageArchive, "http://files.pharo.org/image/70/", "./download"
 
-RecreateFolderExists("system")'Extract "./download/" & vmArchive 
+RecreateFolderExists("system")
+
+Extract "./download/" & vmArchive 
 Extract "./download/" & imageArchive
 
 imageName = FirstImageNameInFolder(GetScriptPath & "\system\")
