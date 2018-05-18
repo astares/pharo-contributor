@@ -21,3 +21,5 @@ CPTCloneTool run
   to automagically download and update you fork (after giving your Github username)
 
 Then you can contribute as usual by having a branch for a bug number in Iceberg and so on.
+
+[![Contribution Tool - Step 1](https://img.youtube.com/vi/z4PWGxihdxU/0.jpg)](https://www.youtube.com/watch?v=z4PWGxihdxU)
