@@ -22,9 +22,13 @@ CPTCloneTool run
 
 Then you can contribute as usual by having a branch for a bug number in Iceberg and so on.
 
+# Video 1
+
 **Video: Contribution Tool (1/2)** (Click the picture to see the demo)
 
 [![Contribution Tool - Step 1](https://img.youtube.com/vi/z4PWGxihdxU/0.jpg)](https://www.youtube.com/watch?v=z4PWGxihdxU)
+
+# Video 2
 
 **Video: Contribution Tool (2/2)** (Click the picture to see the demo)
 
